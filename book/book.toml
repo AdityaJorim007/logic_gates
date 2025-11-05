@@ -1,0 +1,23 @@
+[book]
+title = "Swift & Apple Platforms 2026: Complete Developer Guide"
+authors = ["Detroit Swift Community"]
+description = "Production-ready Swift development for iOS 26, macOS 26, and all Apple platforms with ML, open-source frameworks, and monetization strategies"
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/durellwilson/swift-2026-course"
+edit-url-template = "https://github.com/durellwilson/swift-2026-course/edit/main/book/{path}"
+
+[output.html.search]
+enable = true
+
+[output.html.fold]
+enable = true
+level = 1
