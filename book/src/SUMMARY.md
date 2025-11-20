@@ -148,3 +148,4 @@
 # Autonomous Content System
 
 - [Agent Overview](./auto-generated/README.md)
+- [Advanced Swift Patterns](./swift/advanced-patterns.md)
